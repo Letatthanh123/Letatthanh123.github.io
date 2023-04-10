@@ -1,0 +1,129 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-size:cover;
+    font-family: sans-serif;
+    background-image: url(https://vapa.vn/wp-content/uploads/2022/12/hinh-nen-cute-cho-may-tinh-002.jpg);
+}
+
+*{
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+}
+
+.box-menu{
+    background-color:darkcyan;
+    text-align: center;
+}
+.box-menu ul{
+    display: inline-flex;
+    list-style: none;
+    color: #fff;
+}
+.box-menu ul li{
+    width: 150px;
+    margin: 5px;
+    padding: 15px;
+}
+.box-menu ul li a{
+    color:#fff;
+    text-decoration: none;
+}
+.active,.box-menu ul li:hover{
+    background:#3406D1;
+    border-radius: 3px;
+}
+.container{
+    background-color:coral;
+    padding: 35px;
+    margin: 0;
+}
+.container h1{
+    color:red;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: oblique;
+    text-align: center;
+    font-size: 40px;
+}
+.hinhanh a{
+    margin: 500px;
+}
+
+.hinhanhtoi a{
+    padding:200px;  
+}
+.container p{
+    text-align: center;
+    font-size: 20px;
+    color:#3406D1;
+}
+.box p{
+    text-align: center;
+    text-decoration: underline;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: larger;
+    color:darkred;
+}
+
+.introduce {
+    padding-left: 100px;
+    margin-left: 100px;
+    font-size: larger;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+.introduce p strong{
+    color:indigo;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+}
+.current a{
+    color:saddlebrown;    
+}
+.duoi p{
+    text-align: center;
+    font-size: 20px;
+    color:rgb(87, 75, 75);
+    text-decoration: underline;
+    font-style: oblique;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.content h2{
+    text-align: center;
+    color:rgb(96, 91, 4);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+.content p{
+    padding:10px;
+    margin: 15px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+.content{
+    color:rgb(120, 27, 11);
+    font-size: 20px;
+}
+.content ul li{
+    margin-left: 50px;
+    color:rgb(77, 77, 15);
+
+}
+.contact{
+    padding: 10px;
+    background-color:darksalmon;
+    color:rgb(189, 2, 39);
+    font-size: 25px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+.khung{
+    background-color:burlywood;
+    text-align: center;
+
+}
+.duoi nav{
+    background-color:rgb(230, 214, 193);
+    padding: 50px;
+}
