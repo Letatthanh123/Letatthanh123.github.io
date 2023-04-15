@@ -107,39 +107,39 @@ function clearStatusClass(element) {
 
 const questions = [
   {
-    question: 'CLB nào vô địch cup C1 nhiều nhất ?',
+    question: 'Haiku là thể thơ truyền thống của nước nào?',
     answers: [
-      { text: 'Real madrid', correct: true },
-      { text: 'Manchester city', correct: false },
-      { text:' Manchester United', correct: false},
-      {text: 'barcelona ', correct: false}
+      { text: 'Nhật Bản', correct: true },
+      { text: 'Việt Nam', correct: false },
+      { text:' Mĩ', correct: false},
+      {text: 'Canada ', correct: false}
     ]
   },
   {
-    question: 'Ai là người giành nhiều quả bóng vàng nhất lịch sư bóng đá ?',
+    question: 'Bảo tàng Hồ Chí Minh ở thủ đô Hà Nội được thiết kế theo hình dáng loại hoa nào?',
     answers: [
-        {text :' Cristiano Ronaldo', correct: false},
-        {text: ' Pele', correct: false},
-        {text :' lionel Messi', correct: true},
-        {text :' Ronaldo de lima', correct: false}
+        {text :'Hoa Đào', correct: false},
+        {text: 'Hoa Mai', correct: false},
+        {text :'Hoa Sen', correct: true},
+        {text :'Hoa Hướng dương', correct: false}
     ]
   },
   {
-    question: 'Đội tuyển nào vô địch Euro 2020 ?',
+    question: 'Tân Tổng thống Ukraine Volodymyr Zelensky làm nghề gì trước khi nhậm chức?',
     answers: [
-      { text: 'Tây Ban Nha', correct: false },
-      { text: 'Hà Lan', correct: false },
-      { text: 'Pháp', correct: false },
-      { text: 'Italia', correct: true }
+      { text: 'Doanh Nhân', correct: false },
+      { text: 'Võ Sĩ', correct: false },
+      { text: 'Bác Sĩ', correct: false },
+      { text: 'Diễn Viên Hài', correct: true }
     ]
   },
   {
-    question: 'Đội tuyển vô địch wolrd cup 2022',
+    question:'Đâu là tên một loại đồ chơi dân gian của trẻ em?',
     answers: [
-      { text: 'Argentina', correct: true},
-      { text: 'Pháp', correct: false },
-      { text: 'Brazil', correct: false },
-      { text: 'Tây Ba Nha', correct: false }
+      { text: 'Tò He', correct: true},
+      { text: 'Tò Mò', correct: false },
+      { text: 'Tò Vò', correct: false },
+      { text: 'Tến Vò', correct: false }
     ]
   },
  
